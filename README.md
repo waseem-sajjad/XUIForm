@@ -1,6 +1,6 @@
 # XUIForm
 XUIForm C#
-# Work on .Net 4.6
+# Work on .Net 3.5 or Higher
 
 # Screen Shot
 ![SS1](https://user-images.githubusercontent.com/37972599/62003299-9bae1580-b12e-11e9-8867-029728169649.PNG)
